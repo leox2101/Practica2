@@ -8,3 +8,5 @@ The generate report rule it's stated to give a list of cars that are from the sa
 The budgets one is a predicate, it gives true or false depending on the price of the car, if the car price is less or equals to the stated budget gives true, if it is not, the predicate result is false.
 
 Finally we have the brands rule, is a easy one, it makes a bag of from vehicules of the same brand. We made other functions to complement the querys and the rules. 
+
+Explainatory video: https://youtu.be/Ks8H6JGb8R4
